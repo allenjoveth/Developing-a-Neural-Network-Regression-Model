@@ -92,11 +92,13 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
-<img width="470" height="349" alt="Screen Shot 2026-04-20 at 14 42 34" src="https://github.com/user-attachments/assets/f992027a-c800-45e7-98bf-924274a1b881" />
+<img width="810" height="580" alt="Screenshot 2026-04-20 144833" src="https://github.com/user-attachments/assets/66623299-64fe-4f64-9e18-c0921f7bbe19" />
+
 
 
 ### New Sample Data Prediction
-<img width="592" height="105" alt="Screen Shot 2026-04-20 at 14 46 27" src="https://github.com/user-attachments/assets/db07a715-e672-4641-9db5-47ff885af92d" />
+<img width="305" height="36" alt="Screenshot 2026-04-20 144849" src="https://github.com/user-attachments/assets/f97c60a3-090d-41c8-bc90-34217e7c4f99" />
+
 
 
 ## RESULT
