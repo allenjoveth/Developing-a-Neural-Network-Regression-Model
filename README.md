@@ -45,9 +45,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Vikamuhan Reddy
+### Name: ALLEN JOVETH P
 
-### Register Number: 212223240181
+### Register Number: 212223240007
 
 ```python
 
