@@ -9,6 +9,7 @@ Regression is a supervised learning technique used to predict continuous numeric
 
 ## Neural Network Model
 <img width="615" height="491" alt="nn" src="https://github.com/user-attachments/assets/01fc80b1-cbd4-4dc4-bbb5-9069425198fe" />
+<img width="1357" height="874" alt="1" src="https://github.com/user-attachments/assets/338d63bd-252d-42dd-8309-b2f014e8e72a" />
 
 ## DESIGN STEPS
 
